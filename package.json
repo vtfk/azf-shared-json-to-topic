@@ -1,6 +1,6 @@
 {
   "name": "azf-shared-json-to-topic",
-  "description": "Azure function for indexing politicians",
+  "description": "Timed trigger for retrieveing json data and push to servicebus topic.",
   "version": "1.0.0",
   "license": "MIT",
   "author": {

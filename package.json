@@ -48,6 +48,6 @@
   },
   "dependencies": {
     "axios": "0.18.0",
-    "uuid-random": "1.0.8"
+    "uuid-random": "1.0.9"
   }
 }
